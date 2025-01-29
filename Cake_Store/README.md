@@ -32,7 +32,8 @@ Cake_Store/
 ├── Cake_Data/               # Directory for persistent data storage
 │   ├── Customer_Data.pkl    # Customer data storage file
 │   └── Cake_Data.pkl        # Cake data storage file
-└── README.md                # Project documentation
+├── README.md                # Project documentation
+└──Screenshots
 ```
 
 ## ⚙️ Instructions to Run
@@ -66,7 +67,7 @@ Here are some examples for test cases for you:
 - **Error Handling:** Robust exception handling during data storage.
 
 ## 📷 Screenshots
-![alt text](Capture.PNG)
+![Add Cake](F:\Programming\Github Python DSA\Cake_Store\Screenshots\Add Cake.PNG)
 
 
 ## 🔑 License
