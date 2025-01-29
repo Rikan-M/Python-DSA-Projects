@@ -67,7 +67,7 @@ Here are some examples for test cases for you:
 - **Error Handling:** Robust exception handling during data storage.
 
 ## 📷 Screenshots
-![Add Cake](F:\Programming\Github Python DSA\Cake_Store\Screenshots\Add Cake.PNG)
+![Main Menu](Screenshots/Main-menu.png)
 
 
 ## 🔑 License
