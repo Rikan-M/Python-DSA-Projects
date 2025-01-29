@@ -67,7 +67,7 @@ Here are some examples for test cases for you:
 - **Error Handling:** Robust exception handling during data storage.
 
 ## 📷 Screenshots
-![Main Menu](Cake_Store/Screenshots/Main-menu.png)
+![Main Menu](Screenshots/Main-menu.png)
 
 
 ## 🔑 License
