@@ -65,8 +65,9 @@ Here are some examples for test cases for you:
 - **Persistent Data Storage:** Securely handles customer and inventory data.
 - **Error Handling:** Robust exception handling during data storage.
 
-## 📷 Screenshots (Optional)
-*(Include sample terminal outputs if possible)*
+## 📷 Screenshots
+![alt text](Capture.PNG)
+
 
 ## 🔑 License
 This project is licensed under the MIT License.
