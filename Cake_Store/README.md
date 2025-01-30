@@ -67,7 +67,15 @@ Here are some examples for test cases for you:
 - **Error Handling:** Robust exception handling during data storage.
 
 ## 📷 Screenshots
-![Main Menu](Screenshots/Main-menu.png)
+![Main Menu](Screenshots/Main-menu.PNG)
+![Display All Orders](Screenshots/Display_Orders.PNG)
+![Add New Order](Screenshots/New_Order.PNG)
+![Display Urgent Order](Screenshots/Urgent_Order.PNG)
+![Add New Cake](Screenshots/Add_Cake.PNG)
+![Display All Cakes](Screenshots/Display_Cakes.PNG)
+![Display Cakes By Group](Screenshots/Display_Cakes_By_Group.PNG)
+![Remove A Cake](Screenshots/Remove_Cake.PNG)
+
 
 
 ## 🔑 License
